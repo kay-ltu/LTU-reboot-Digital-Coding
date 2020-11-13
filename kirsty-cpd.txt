@@ -27,6 +27,6 @@ Today we linked hithub and VS
 
 REFLECTION
 
-Text editing in VS, overview of extra curricular learning resources and videos.
+Text editing and folder additions in VS uploading to git, overview of extra curricular learning resources and videos.
 
 Appreciate your honesty and relatability Luke
