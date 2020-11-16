@@ -30,3 +30,15 @@ REFLECTION
 Text editing and folder additions in VS uploading to git, overview of extra curricular learning resources and videos.
 
 Appreciate your honesty and relatability Luke
+
+
+1.5 16/11/2020
+
+REFLECTION
+
+History of HTML, how to view and inspect source, overview of elements and attributes and how to write code using shortcuts and standard practice. 
+
+Tasks included creating new files and folders, coding and pushing new files to Github, using these applications are new to me typically I use Dreamweaver so I appreciate the new persective and new way of working. 
+
+I particularly enjoyed the shortcodes and extensions, thank you for those.
+
