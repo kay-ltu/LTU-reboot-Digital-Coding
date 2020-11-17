@@ -42,3 +42,18 @@ Tasks included creating new files and folders, coding and pushing new files to G
 
 I particularly enjoyed the shortcodes and extensions, thank you for those.
 
+1.6 17/11/2020
+
+REFLECTION
+
+Today we expanded upon HTML content including:
+    Lists, both ordered and unordered for text and images
+    Line Breaks to create space
+    Tables and how used in emails
+    Hyperlinks, both relative and absolute paths as text and images directing them to open in the same window or new tabs
+    Inserting Email links using the mailto function
+
+Tasks included creating pages demonstrating the above.
+
+Still enjoying the shortcuts, external links and resources as well as your general discussions re. real world applications. Thanks and take care.
+
