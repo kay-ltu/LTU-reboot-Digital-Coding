@@ -57,3 +57,10 @@ Tasks included creating pages demonstrating the above.
 
 Still enjoying the shortcuts, external links and resources as well as your general discussions re. real world applications. Thanks and take care.
 
+1.7 18/11/2020
+
+REFLECTION
+
+Today we focused on CSS, really enjoyed your thorough approach again Luke, breaking it down to selector, property and value was a great way of looking at it objectively instead of just code it helps to respect the individual components, what they contribute and how they relate and communicate. 
+Tasks included creating html pages and separate css files as industry best practice as I have learnt too, I do call them css but appreciate calling them styles is more logical and I'll try switch over from that :) We then changed various values to show the interaction with the html page changing.
+We began looking at specific selectors divs and classes. Looking forward to next lesson. 
