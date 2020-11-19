@@ -1,0 +1,12 @@
+h1 span {
+    color: violet;
+    font-weight: bolder;
+}
+p span {
+    color: thistle;
+    font-style: italic;
+}
+.highlighted {
+    background-color: yellow;
+   font-weight: bold;
+}
