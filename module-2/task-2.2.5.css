@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(192, 206, 206);
+}
+p {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+p em {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+h1 {
+    color: navy;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+ul {
+    color: green;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: x-small;
+}
+ul li a {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-family: cursive;
+    font-size: x-small;
+}
