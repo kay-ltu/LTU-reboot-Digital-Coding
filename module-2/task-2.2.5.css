@@ -31,3 +31,15 @@ ul li a {
     font-family: cursive;
     font-size: x-small;
 }
+.warning {
+    color: rgb(255, 0, 0);
+}
+#footer {
+    font-family: cursive;
+    font-size: x-small;
+}
+#hero {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: grey;
+}
