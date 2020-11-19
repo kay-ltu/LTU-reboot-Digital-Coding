@@ -64,3 +64,14 @@ REFLECTION
 Today we focused on CSS, really enjoyed your thorough approach again Luke, breaking it down to selector, property and value was a great way of looking at it objectively instead of just code it helps to respect the individual components, what they contribute and how they relate and communicate. 
 Tasks included creating html pages and separate css files as industry best practice as I have learnt too, I do call them css but appreciate calling them styles is more logical and I'll try switch over from that :) We then changed various values to show the interaction with the html page changing.
 We began looking at specific selectors divs and classes. Looking forward to next lesson. 
+
+1.8 19/11/2020
+
+REFLECTION
+
+On our 8th session we focused on CSS, using ID's and classes and understood css rules are applied in either cascading order, specificity, and top-down read from the CSS sheet in terms of duplications. We also looked at shortcodes, shortcodes are excellent thank you.
+
+We looked at divs, classes and how HTML5 have replaced some commonly used design elements with inspiration from newspapers to create new elements. Very pleased - much better.
+We also looked at placements using the box model including inline and block elements, padding, margin and borders.
+
+Might be useful to explain best practice for knowing which size units to use in terms of text and box sizes, I've had experience with all: ems, pixels and percents... perhaps your excellent way of explaining logic and real world examples could go into best practice and why for example in html emails vs flexible websites, would you mix units in the same website, or stick to percents for flexibility, or are separate CSS rules still written per device size with max-width pixels etc. Keeping up with changing trends is vast. Thank you.
