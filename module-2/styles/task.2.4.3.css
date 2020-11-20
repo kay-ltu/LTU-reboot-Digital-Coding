@@ -1,0 +1,11 @@
+.relative {
+    border: 1px solid green;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 80px;
+    top: 20px;
+}
