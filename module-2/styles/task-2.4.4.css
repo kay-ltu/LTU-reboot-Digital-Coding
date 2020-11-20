@@ -1,0 +1,19 @@
+div {
+    width: 400px;
+    position: relative;
+}
+img {
+    width: 100%;
+}
+p {
+    position: absolute;
+    color: white;
+    top: 8px;
+    left: 20px;
+    background-color: black;
+    padding: 5px;
+    border: 2px solid rgb(155, 155, 155);
+    width: 340px;
+    text-align: center;
+    font-weight: bold;
+}
