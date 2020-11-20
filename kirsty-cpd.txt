@@ -75,3 +75,15 @@ We looked at divs, classes and how HTML5 have replaced some commonly used design
 We also looked at placements using the box model including inline and block elements, padding, margin and borders.
 
 Might be useful to explain best practice for knowing which size units to use in terms of text and box sizes, I've had experience with all: ems, pixels and percents... perhaps your excellent way of explaining logic and real world examples could go into best practice and why for example in html emails vs flexible websites, would you mix units in the same website, or stick to percents for flexibility, or are separate CSS rules still written per device size with max-width pixels etc. Keeping up with changing trends is vast. Thank you.
+
+1.9 20/11/2020
+
+REFLECTION
+
+Today we recapped on CSS, then moved on to positioning. Exploring absolute and relative positioning.
+
+We had tasks involving creating divs with classes including margins, padding, borders. Discussed how to condense and order the CSS for best practice separating our with commas.
+
+We also discussed the z-index layering of object as an option but a preference of placement via positioning. We had tasks involving creating divs positioned with parent and child elements involving text and images and styling those and exploring how changes reflect in the visual structure of the page.
+
+Again, enjoyed the thorough approach to teaching. Thanks
