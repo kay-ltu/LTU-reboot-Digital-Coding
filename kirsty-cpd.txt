@@ -87,3 +87,8 @@ We had tasks involving creating divs with classes including margins, padding, bo
 We also discussed the z-index layering of object as an option but a preference of placement via positioning. We had tasks involving creating divs positioned with parent and child elements involving text and images and styling those and exploring how changes reflect in the visual structure of the page.
 
 Again, enjoyed the thorough approach to teaching. Thanks
+
+1.10 23/11/20
+
+REFLECTION
+Discussed that floats work in normal flow, can float right and left, or override with clear. Looked at bootstrap as a shortcut and carried out tasks involving creating elements with floats, building a bootstrap page and building a webpage with some typical features and aesthetics via css and google fonts. Really enjoyed extended session re. media queries, thank you so much for doing that. 
