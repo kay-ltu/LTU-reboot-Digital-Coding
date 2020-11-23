@@ -10,7 +10,10 @@ body {
 }
 h1 {
     margin-bottom: 175px;
-}
+    }
+header h1 img {
+        width: 400px;
+        }
 section p {
     max-width: 350px;
 }
@@ -47,7 +50,7 @@ margin-bottom: 20px;
 .image4 {
     margin-top: 100px;
 }
-.image4 img{
+.image4 img {
     max-width: 1200px;
 }
 
@@ -60,8 +63,61 @@ h2 {
     padding-bottom: 30px;
     border-bottom: solid 2px #FFFFFF;
 }
-.further{
+.further {
     margin-top: 50px;
     max-width: 350px;
     margin-bottom: 80px;
+}
+footer {
+    background-color: #4c4c4c;
+    padding: 30px;
+    max-width: 1100px;
+}
+
+footer a {
+    color: #1a1a1a;
+    text-decoration: none;
+    margin-bottom: 20px;
+    margin-right: 40px;
+}
+footer p{
+    margin-bottom: 12px;
+}
+.links{
+    margin-top: 50px;
+}
+/* mobile media queries */
+@media (max-width: 740px) {
+    body {
+        background-color: red;
+        margin-left: 30px;
+        margin-right: 30px;
+        font-size: 12px;
+        margin-top: 30px;
+}
+img {
+    max-width: 100%;
+}
+.image2 img,
+.image3 img,
+.image4 img{
+    max-width: 100%;
+    }
+.image1,
+.image2,
+.image3,
+.image4,
+.widerange{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* default block elements are inline so for mobiles changed to block */
+footer a {
+display: block;
+}
+footer {
+    padding: 30px;
+    margin: 0;
+    width: 85%
+}
 }
