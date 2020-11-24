@@ -1,6 +1,6 @@
 var myName;
 
-var myName = Kirsty;
+var myName = 'Kirsty';
 
 alert('hello from Kirsty');
 
