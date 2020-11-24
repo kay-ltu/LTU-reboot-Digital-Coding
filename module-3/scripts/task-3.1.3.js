@@ -1,3 +1,5 @@
+var myName;
+
 var myName = Kirsty;
 
 alert('hello from Kirsty');
