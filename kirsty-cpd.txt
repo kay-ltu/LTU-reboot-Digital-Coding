@@ -20,7 +20,7 @@ I enjoyed the thorough approach of the tutor :)
 
 REFLECTION
 
-Today we linked hithub and VS
+Today we linked github and VS
 
 
 1.4 13/11/2020
@@ -91,4 +91,13 @@ Again, enjoyed the thorough approach to teaching. Thanks
 1.10 23/11/20
 
 REFLECTION
-Discussed that floats work in normal flow, can float right and left, or override with clear. Looked at bootstrap as a shortcut and carried out tasks involving creating elements with floats, building a bootstrap page and building a webpage with some typical features and aesthetics via css and google fonts. Really enjoyed extended session re. media queries, thank you so much for doing that. 
+Discussed that floats work in normal flow, can float right and left, or override with clear. Looked at bootstrap as a shortcut and carried out tasks involving creating elements with floats, building a bootstrap page and building a webpage with some typical features and aesthetics via css and google fonts. Really enjoyed extended session re. media queries, thank you so much for doing that.
+
+1.11 24/11/20
+
+REFLECTION
+Im probably titling these reflections incorrectly however it helps me keep track of the sesions in order :) 
+Today we looke dinto Javascript, how it works in the browser and is used for dynamism and interaction ie. lightoxes, cookies and dropdowns, it is also utilsied by Adobe, Goggle maps and the gaming industry etc.
+We completed tasks invovling creating HTML pages linked with JS files and paired their output using Goggle web dev tools via the console feature. 
+We explored alerts, write and console logs and created tasks exploring strings, numbers, names.
+I enjoyed the explanations and breakdowns in their simplistic terms again, I also enjoyed the challenge of the takeaway task and the absence of help made it oddly all the more fun :)  
