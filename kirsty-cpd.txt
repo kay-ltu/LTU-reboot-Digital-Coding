@@ -101,3 +101,9 @@ Today we looke dinto Javascript, how it works in the browser and is used for dyn
 We completed tasks invovling creating HTML pages linked with JS files and paired their output using Goggle web dev tools via the console feature. 
 We explored alerts, write and console logs and created tasks exploring strings, numbers, names.
 I enjoyed the explanations and breakdowns in their simplistic terms again, I also enjoyed the challenge of the takeaway task and the absence of help made it oddly all the more fun :)  
+
+1.12 25/11/20
+
+Today we looked at Javascript functions as a repeatable instruction to carry out tasks. We used camel casing to structure our names and used parameters to change its use. We used if, else if, or and and statements. We outputted sentences, calculated percentages and also looked at switch statements.
+
+I enjoyed expanding my knowledge of javacript and enjoyed the class and company. I might enjoy it more so to know what this module is working toward... speculating as to whether will result in adding contact forms / surveys / slideshows / lightboxes to our website or if building an app version of the website via javascript for example? 
