@@ -18,7 +18,7 @@ document.write(newTotal);
 
 */
 
-/* Bonus Points Answer*/
+/* Bonus Points Answer
 
 var preTipTotal;
 
@@ -39,3 +39,15 @@ alert(sentence);
 console.log(sentence);
 
 document.write(sentence);
+*/
+
+/*Tuition Example*/
+var preTip = 42.99;
+
+var tipPercentage = 12.5;
+
+var percentageOfPreTip = ( preTip * tipPercentage ) / 100;
+
+var totalPricePlusTip = preTip + percentageOfPreTip;
+
+document.write( '£' + totalPricePlusTip.toFixed(2) );
