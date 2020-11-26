@@ -59,23 +59,29 @@ let shoppingCart = [
     quantity:3,
     price:.4
     }];
-//function called array so can reuse the function later.
-    function shoppingCartTotalPrice( arr ) { //step1, create a function that takes 1 parameter (the array)
-        
-        let totalPrice = 0; //step 2, create a variable inside the function called totalprice
 
-        for ( let index = 0; index < arr.length; index++ )
-                { //step 3, loop through each item of hte array and add the value of the item to the total price.
+    function discountfood( arr ) { 
+
+        let totalPrice = 0; 
+
+        for ( let index = 0; index < arr.length; index++ )  {
+
+           if ( arr[index].type === 'food') {
+             let discount = ( arr[index].price * 20 ) / 100;
+
+             totalPrice = totalPrice + (arr[index].price - discount ) * arr[index].quantity; // errors fix and fix in 3.5.3 also
            
-            totalPrice = totalPrice + (arr[index].price * arr[index].quantity)//pulls the first item in shopping cart price field, pulls quantity field in first part too
+           } else {
+
+            totalPrice = totalPrice + (arr[index].price * arr[index].quantity)
                 }
 
-        //step 4. return the total price variable
-        return totalPrice.toFixed(2); //evoke / calls the function 
+         }
+        return totalPrice.toFixed(2); 
 
     }
-    let message = 'The cost of all your items comes to: £'
-        console.log(message + shoppingCartTotalPrice (shoppingCart));
+   
+        console.log(discountfood (shoppingCart));
 
 
 
