@@ -59,6 +59,8 @@ let shoppingCart = [
     quantity:3,
     price:.4
     }];
+    
+    //get the cart total
 //function called array so can reuse the function later.
     function shoppingCartTotalPrice( arr ) { //step1, create a function that takes 1 parameter (the array)
         
