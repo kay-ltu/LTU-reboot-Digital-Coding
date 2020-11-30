@@ -4,9 +4,57 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>task-3.7</title>
+    <style>
+img {
+    width: 400px;
+}
+.active{
+    background-color: orange;
+    color: blue;
+}
+
+    </style>
 </head>
 <body> 
+<section class="main">
 
+    <div class="container">
+
+        <h1>Animal Filer Using JS</h1>
+
+        <div class="selection-container">
+
+        <button class="selection active" data-class="all" >ALL</button>
+        <button class="selection" data-class="tigers">Tigers</button>
+        <button class="selection" data-class="lions">Lions</button>
+        <button class="selection" data-class="penguin">Penguins</button>
+        <button class="selection" data-class="elephants">Elephants</button>
+
+   
+        </div>
+    </div><!--End of container-->
+
+
+
+<div class="imageselections">
+    <div class="images" data-class="elephants" >
+            <img src="https://bit.ly/3nlr0tQ" alt="elephants">
+    </div>
+    <div class="images" data-class="tigers">
+        <img src="https://bit.ly/2GbdxEh" alt="tigers">
+    </div>
+    <div class="images" data-class="penguins">
+        <img src="https://bit.ly/3nbEaJS" alt="penguins">
+    </div>
+    <div class="images" data-class="lions">
+        <img src="https://bit.ly/3cXkch5" alt="lions">
+    </div>
+
+
+
+</div><!--End of image selectionsr-->
+
+></section>
    
 
     <script src="scripts/task-3.7.js"></script>
