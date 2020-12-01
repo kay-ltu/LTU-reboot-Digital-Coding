@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task-4.3.2</title>
+</head>
+<body>
+    <!--
+PRESUDOCODE - keep a track of which books youve read and which youd like to read
+
+ARRAY list of objects
+        LET array
+            - multi line, book title, author, boolean (true of false read or unread) [x]
+
+     
+            for loop through the list, return title and author
+
+            if boolean read = true - console log you alredy read it, go to next one + title + author)
+            
+            if else boolean = fasle - print you need to read it + title + author
+
+    -->
+
+        <!--
+PRESUDOCODE 2 - keep a track of which books youve read and which youd like to read
+        LET varname =[]
+            book title, author, read boolean true of false read or unread [x]
+
+     
+            only need you to look through the list once and display results
+            the result may change when ive read it so a var can be a let
+            LET for loop through the list starting at 0 at each object in turn to hte bottom of the list, return title and author
+
+            if boolean read = true - console log you alredy read it, go to next one + title + author)
+            
+            else boolean print you need to read it + title + author
+
+    -->
+    
+        <!--
+PRESUDOCODE 3 - reading list
+        LET varname =[{},{},{};]
+            consisting of book title:_, author:_, read:_ (boolean true of false) [x]
+
+        FOR LOOP - index 0 to end of list and go to next up to that point
+            if boolean read = true - console log you alredy read it, go to next one + title + author)
+            
+            else boolean print you need to read it + title + author
+
+    -->
+
+
+    <script>
+let readingList = [
+    {
+    title:"The Hobbit",
+    author:"J.R.R Tolkien",
+    read: true
+      },
+      {
+    title:"The Silmarilian",
+    author:"J.R.R Tolkien",
+    read: false
+      },
+      {
+    title:"The Children of Hurin",
+    author:"J.R.R Tolkien",
+    read: false
+      }
+    ];
+
+    for ( let index = 0; index < readingList.length; index++ )  {
+            
+            if(readingList[index].read){
+                let message = 'You already read '
+       
+            console.log(message + readingList[index].title + ' by ' +readingList[index].author);
+            }else{
+                let message = 'You still need to read '
+       
+            console.log(message + readingList[index].title + ' by ' +readingList[index].author);
+            }
+
+        }
+
+    </script>
+</body>
+</html>
