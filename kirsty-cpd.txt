@@ -153,6 +153,16 @@ Tasks:
 > To research terinary operators using mdn
 > Build a profile webpage.
 
+1.16 01/12/20 REFLECTION
 
+Explored:
++ Recapped JS Jargon
++ Explored Pseudocode as a means to reduce errors and as a contruction aid for JS
+
+Tasks:
+> Fizzbuzz challenge - replacing numbers in a counter with text values based on mathematical equations
+> Create a reading list array outputting values based on a boolean with pseudocode progressing to JS code.
+
+++ Enjoyed the recap :) 
 
  
