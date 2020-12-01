@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task-4.3.1</title>
+</head>
+<body>
+    <!--
+PRESUDOCODE - fizz buzz challenge
+
+PRINT numbers 1-100
+IF multiple of 3 PRINT fizz
+IF multiple of 5 print buzz
+IF multiple of 5 AND 3 PRINT fizz buzz
+IF not any of the above PRINT number
+
+    -->
+
+        <!--
+PRESUDOCODE - fizz buzz challenge - step 2
+
+FOR LOOP > 
+    SET A STARTING NUMBER OR COUNTER TO 1 (INDEX) > [x]
+    CONDITION (THE RANGE) "BREAK when counter reaches or is equal to 100." [x]
+    increment the counter by 1 in order to count up by 1 each time [x]
+
+IF number is MOD (MODULOUS) FIVIDES BY 3 AND HAS NO LEFTOVERS
+    =
+    IF number MOD 15 === 0
+    (IF THERE ARE NO LEFTOVERS AS DIVIDSABLE, PRINT "FIZZBUZZ")
+    ELSE IF number is MOD 3 ===0 PRINT FIZZ
+
+    ELSE IF number MOD 5 ===0
+    PRINT OUT BUZZ
+
+    ELSE print number
+
+
+    -->
+
+    <script>
+for( let counter = 1; counter <=100; counter++ ){
+    if( counter % 15 === 0) {
+        console.log('FizzBuzz');
+    } else if ( counter % 3 === 0) {
+        console.log('Fizz');
+    } else if (counter % 5 === 0) {
+        console.log('Buzz');
+    } else {
+        console.log( counter );
+        }
+}
+
+
+    </script>
+</body>
+</html>
